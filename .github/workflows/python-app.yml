@@ -13,7 +13,7 @@ permissions:
   contents: read
 
 jobs:
-  test_ci:
+  CI:
 
     runs-on: ubuntu-latest
 
