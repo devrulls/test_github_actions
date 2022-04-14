@@ -3,7 +3,7 @@ from main import add, divide, multiplication
 
 
 def test_add_two_numbers():
-    assert add(18, 12) == 30
+    assert add(3, 8) == 11
 
 
 def test_divide_two_numbers():
